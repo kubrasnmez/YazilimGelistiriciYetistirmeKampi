@@ -1,0 +1,11 @@
+C:\Users\Kubra\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.0\ClassMetotDemo.exe
+C:\Users\Kubra\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.0\ClassMetotDemo.deps.json
+C:\Users\Kubra\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.0\ClassMetotDemo.runtimeconfig.json
+C:\Users\Kubra\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.0\ClassMetotDemo.runtimeconfig.dev.json
+C:\Users\Kubra\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.0\ClassMetotDemo.dll
+C:\Users\Kubra\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.0\ClassMetotDemo.pdb
+C:\Users\Kubra\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.0\ClassMetotDemo.csprojAssemblyReference.cache
+C:\Users\Kubra\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.0\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\Kubra\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.0\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\Kubra\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.0\ClassMetotDemo.dll
+C:\Users\Kubra\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.0\ClassMetotDemo.pdb
