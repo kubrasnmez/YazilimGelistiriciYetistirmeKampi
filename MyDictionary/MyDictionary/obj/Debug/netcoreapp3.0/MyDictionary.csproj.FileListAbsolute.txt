@@ -1,0 +1,11 @@
+C:\Users\Kubra\source\repos\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.0\MyDictionary.exe
+C:\Users\Kubra\source\repos\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.0\MyDictionary.deps.json
+C:\Users\Kubra\source\repos\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.0\MyDictionary.runtimeconfig.json
+C:\Users\Kubra\source\repos\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.0\MyDictionary.runtimeconfig.dev.json
+C:\Users\Kubra\source\repos\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.0\MyDictionary.dll
+C:\Users\Kubra\source\repos\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.0\MyDictionary.pdb
+C:\Users\Kubra\source\repos\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.0\MyDictionary.csprojAssemblyReference.cache
+C:\Users\Kubra\source\repos\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.0\MyDictionary.AssemblyInfoInputs.cache
+C:\Users\Kubra\source\repos\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.0\MyDictionary.AssemblyInfo.cs
+C:\Users\Kubra\source\repos\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.0\MyDictionary.dll
+C:\Users\Kubra\source\repos\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.0\MyDictionary.pdb
