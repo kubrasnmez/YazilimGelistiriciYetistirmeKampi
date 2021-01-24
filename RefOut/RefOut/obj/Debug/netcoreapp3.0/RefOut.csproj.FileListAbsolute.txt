@@ -1,0 +1,11 @@
+C:\Users\Kubra\source\repos\RefOut\RefOut\bin\Debug\netcoreapp3.0\RefOut.exe
+C:\Users\Kubra\source\repos\RefOut\RefOut\bin\Debug\netcoreapp3.0\RefOut.deps.json
+C:\Users\Kubra\source\repos\RefOut\RefOut\bin\Debug\netcoreapp3.0\RefOut.runtimeconfig.json
+C:\Users\Kubra\source\repos\RefOut\RefOut\bin\Debug\netcoreapp3.0\RefOut.runtimeconfig.dev.json
+C:\Users\Kubra\source\repos\RefOut\RefOut\bin\Debug\netcoreapp3.0\RefOut.dll
+C:\Users\Kubra\source\repos\RefOut\RefOut\bin\Debug\netcoreapp3.0\RefOut.pdb
+C:\Users\Kubra\source\repos\RefOut\RefOut\obj\Debug\netcoreapp3.0\RefOut.csprojAssemblyReference.cache
+C:\Users\Kubra\source\repos\RefOut\RefOut\obj\Debug\netcoreapp3.0\RefOut.AssemblyInfoInputs.cache
+C:\Users\Kubra\source\repos\RefOut\RefOut\obj\Debug\netcoreapp3.0\RefOut.AssemblyInfo.cs
+C:\Users\Kubra\source\repos\RefOut\RefOut\obj\Debug\netcoreapp3.0\RefOut.dll
+C:\Users\Kubra\source\repos\RefOut\RefOut\obj\Debug\netcoreapp3.0\RefOut.pdb
