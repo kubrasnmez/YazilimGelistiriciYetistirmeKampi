@@ -1,0 +1,9 @@
+C:\Users\Kubra\source\repos\CheckerBoard\CheckerBoard\bin\Debug\CheckerBoard.exe.config
+C:\Users\Kubra\source\repos\CheckerBoard\CheckerBoard\bin\Debug\CheckerBoard.exe
+C:\Users\Kubra\source\repos\CheckerBoard\CheckerBoard\bin\Debug\CheckerBoard.pdb
+C:\Users\Kubra\source\repos\CheckerBoard\CheckerBoard\obj\Debug\CheckerBoard.csprojAssemblyReference.cache
+C:\Users\Kubra\source\repos\CheckerBoard\CheckerBoard\obj\Debug\CheckerBoard.Form1.resources
+C:\Users\Kubra\source\repos\CheckerBoard\CheckerBoard\obj\Debug\CheckerBoard.Properties.Resources.resources
+C:\Users\Kubra\source\repos\CheckerBoard\CheckerBoard\obj\Debug\CheckerBoard.csproj.GenerateResource.cache
+C:\Users\Kubra\source\repos\CheckerBoard\CheckerBoard\obj\Debug\CheckerBoard.exe
+C:\Users\Kubra\source\repos\CheckerBoard\CheckerBoard\obj\Debug\CheckerBoard.pdb
